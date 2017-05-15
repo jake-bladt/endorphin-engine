@@ -25,6 +25,10 @@ All activities are rated by their potential to provide specific endorphins.
 
 Each endorphin should scale differently.
 
+## Questions
+
+What endorphin is released by a "sense of accomplishment?"
+
 ## References
 
 * [The chemicals that make you happy](http://io9.gizmodo.com/5818371/the-chemicals-that-make-you-happy--no--not-those)
