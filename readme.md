@@ -27,7 +27,8 @@ Each endorphin should scale differently.
 
 ## Questions
 
-What endorphin is released by a "sense of accomplishment?"
+* What endorphin is released by a "sense of accomplishment?"
+* What endorphins does sex produce?
 
 ## References
 
