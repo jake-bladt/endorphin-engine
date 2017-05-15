@@ -13,6 +13,16 @@ The Engine uses the following endorphins to define character motivation:
 * Melatonin - helps sleep, released by darkness, increased by light. Also combats depression.
 * Anandamide - causes bliss, loss of short-term memory. Sedative, calming, fertility.
 
+## Mechanisms
+
+A character is defined by the optimal levels of endorphins in their blood. The levels change over different time scales (ie, optimal melatonin on a diurnal scale, optimal anandamide over the course of a lifetime.)
+
+The optimal levels are orders of magnitude. An optimal endorphin level of 2 is ten times as much as a level of 1.
+
+If a character's level falls a full level below or rises a full level above optimal, it precipitates a crisis.
+
+All activities are rated by their potential to provide specific endorphins.
+
 ## References
 
 * [The chemicals that make you happy](http://io9.gizmodo.com/5818371/the-chemicals-that-make-you-happy--no--not-those)
