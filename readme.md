@@ -11,4 +11,4 @@ The Engine uses the following endorphins to define character motivation:
 * Noradrenaline - provides focus.
 * Seratonin - combats depression. Excesses cause hallucination.
 * Melatonin - helps sleep, released by darkness, increased by light. Also combats depression.
-
+* Anandamide - causes bliss, loss of short-term memory. Sedative, calming, fertility.
