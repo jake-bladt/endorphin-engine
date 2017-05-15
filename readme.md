@@ -23,6 +23,8 @@ If a character's level falls a full level below or rises a full level above opti
 
 All activities are rated by their potential to provide specific endorphins.
 
+Each endorphin should scale differently.
+
 ## References
 
 * [The chemicals that make you happy](http://io9.gizmodo.com/5818371/the-chemicals-that-make-you-happy--no--not-those)
