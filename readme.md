@@ -8,3 +8,4 @@ The Engine uses the following endorphins to define character motivation:
 
 * Dopamine - keeps a stressed body feeling good, a precursor to adrenaline and noradrenaline.
 * Adrenaline - gives the character bursts of energy, minimizes bleeding, dilates air passages.
+* Noradrenaline - provides focus.
