@@ -7,5 +7,4 @@ The goal of the Endorphin Engine is to create a model for game character interac
 The Engine uses the following endorphins to define character motivation:
 
 * Dopamine - keeps a stressed body feeling good, a precursor to adrenaline and noradrenaline.
-
-
+* Adrenaline - gives the character bursts of energy, minimizes bleeding, dilates air passages.
