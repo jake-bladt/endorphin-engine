@@ -16,3 +16,4 @@ The Engine uses the following endorphins to define character motivation:
 ## References
 
 * [The chemicals that make you happy](http://io9.gizmodo.com/5818371/the-chemicals-that-make-you-happy--no--not-those)
+* [Enkephalins](https://en.wikipedia.org/wiki/Enkephalin)
