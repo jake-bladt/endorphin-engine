@@ -12,3 +12,7 @@ The Engine uses the following endorphins to define character motivation:
 * Seratonin - combats depression. Excesses cause hallucination.
 * Melatonin - helps sleep, released by darkness, increased by light. Also combats depression.
 * Anandamide - causes bliss, loss of short-term memory. Sedative, calming, fertility.
+
+## References
+
+* [The chemicals that make you happy](http://io9.gizmodo.com/5818371/the-chemicals-that-make-you-happy--no--not-those)
