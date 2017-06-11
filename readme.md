@@ -25,6 +25,10 @@ All activities are rated by their potential to provide specific endorphins.
 
 Each endorphin should scale differently.
 
+## Stochastics versus Unpredictability
+
+
+
 ## Questions
 
 * What endorphin is released by a "sense of accomplishment?"
