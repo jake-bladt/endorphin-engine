@@ -27,7 +27,7 @@ Each endorphin should scale differently.
 
 ## Stochastics versus Unpredictability
 
-
+The endorphin engine could see use in two significantly different types of games: social simulations like the Sims series and visual novels like Clannad and Rewrite.
 
 ## Questions
 
